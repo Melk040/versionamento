@@ -1,2 +1,1 @@
-# Este README foi criado como exercício do curso Dominando o Git e Github
-Teste
+# Este README foi criado como exercício dos meus estudos sobre o Git e GithubTeste
