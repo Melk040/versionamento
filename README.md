@@ -1,9 +1,9 @@
 # Este README foi criado como exercício dos meus estudos sobre o Git e Github
 
-## Tabela de Conteúdos Estudados
+## <h1 align="center">Tabela de Conteúdos Estudados</h1>
 _16 de Maio de 2025_
 |Comando | Definição|
-|:---|---:|
+|:---:|---:|
 |```git init```|Inicia ou reinicializa um repositório local pré-existente.|
 |```git status```| Verifica a condição atual do repositório monitorado.|
 |```.gitignore```| Arquivo de configuração criado dentro do diretório de versionamento local para estabelecer quais documentos devem ser ignorados, não devem ser commitados e/ou enviados via push ao repositório remoto do Github.|
