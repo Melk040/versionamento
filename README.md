@@ -19,3 +19,11 @@ _16 de Maio de 2025_
 |```git chechout <nome_da_branch>```|Alterna para a branch secundária.
 |```git merge```| Mescla as features.
 ##
+
+## Lista criada para o treino de branches
+
+1. Solus Christus
+2. Sola Scriptura
+3. Sola Fide
+4. Sola Gratia
+5. Soli Deo Gloria
