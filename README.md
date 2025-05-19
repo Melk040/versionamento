@@ -14,6 +14,8 @@ _16 de Maio de 2025_
 |```git push```| Envia as alterações para o repositório remoto mediante confirmação de login e senha.|
 |```git pull```| Puxa as alterações do repostório remoto para o repositório local mediante confirmação de login e senha.
 |```git reset```| &#128680;_*Cuidado com este comando.*_&#128680; Ele desfaz as alterações em um ou vários arquivos do repositório local com base no último push/envio de alterações para o repositório remoto. Ele faz uma tarefa parecida com a função do comando ```git checkout``` mas realiza o rollback para a última versão que foi atualizada no repositório remoto, ou, em outras palavras, ele puxa a última alteração do repositório remoto e desfaz a última modificação local.
-|```git branch```| Exibe em qual branch o projeto está sendo contruído.
+|```git branch```| Exibe em qual branch o projeto está sendo construído.
+|```git branch <nome_da_branch>```| Cria uma nova branch alternativa para que o projeto seja construído em uma branch secundária até que ele esteja pronto para ser mesclado com a branch main (principal.)
+|```git chechout <nome_da_branch>```|Alterna para a branch secundária.
 |```git merge```| Mescla as features.
 ##
