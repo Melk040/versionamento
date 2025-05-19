@@ -17,3 +17,11 @@ _16 de Maio de 2025_
 |```git branch```| Exibe em qual branch o projeto está sendo contruído.
 |```git merge```| Mescla as features.
 ##
+
+## Lista criada para o treino de branches
+
+1. Solus Christus
+2. Sola Scriptura
+3. Sola Fide
+4. Sola Gratia
+5. Soli Deo Gloria
