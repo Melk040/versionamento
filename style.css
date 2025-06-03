@@ -9,9 +9,14 @@ h2 {
     font-style: inherit;
 }
 body {
-    background-color: rgba(235, 252, 252, 0.986);
+    background-color: white;
+    margin: 19%;
 }
 border {
     border-radius: 50%;
     padding-top: 10%;
+}
+div {
+    display: flex;
+    align-items: left;
 }
