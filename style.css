@@ -12,10 +12,6 @@ body {
     background-color: white;
     margin: 19%;
 }
-border {
-    border-radius: 50%;
-    padding-top: 10%;
-}
 div {
     display: flex;
     align-items: left;
