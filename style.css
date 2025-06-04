@@ -1,6 +1,6 @@
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: 280;
+    font-weight: 290;
     text-align: center;
     
 }
@@ -15,4 +15,6 @@ body {
 div {
     display: flex;
     align-items: left;
-}
+    display: grid;
+    grid-template-columns: repeat(3, 45%);
+    }
