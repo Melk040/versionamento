@@ -12,9 +12,14 @@ body {
     background-color: white;
     margin: 19%;
 }
-div {
-    display: flex;
-    align-items: left;
-    display: grid;
-    grid-template-columns: repeat(3, 45%);
-    }
+.history {
+    text-align: justify;
+    font-display: 90%;    
+    text-decoration: solid;
+    font-display: 40%;
+
+}
+
+a {
+    font-size: larger;
+}
