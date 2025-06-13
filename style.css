@@ -9,17 +9,18 @@ h2 {
     font-style: inherit;
 }
 body {
-    background-color: white;
-    margin: 19%;
+    background-color: ice;
+    margin: 10%;
 }
 .history {
     text-align: justify;
     font-display: 90%;    
     text-decoration: solid;
-    font-display: 40%;
+    font-display: 40%
 
 }
 
 a {
     font-size: larger;
+    
 }
