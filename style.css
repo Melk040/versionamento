@@ -29,3 +29,15 @@ div a {
     font-size: large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.img {
+    width: 95px;
+    height: 105px;
+    margin-left: 950px;    
+}
+.image {
+    align-items: right;
+}
+
+.container {
+    align-items: left;
+}
