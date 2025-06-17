@@ -17,10 +17,15 @@ body {
     font-display: 90%;    
     text-decoration: solid;
     font-display: 40%
-
 }
 
 a {
-    font-size: larger;
-    
+    font-size: larger;   
+}
+div a {
+    box-sizing: border-box;
+    background-color: rgb(243, 234, 157);
+    border-width: 10px;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
